@@ -9,9 +9,7 @@ import java.io.IOException;
 public class MapsCaller {
 
 
-    private static final String APIKEY ="AIzaSyDBPaygtpQ3m-A-cXYIvqQ5Y6ob2P4gACU";
-    private static final String APIKEY2 = "AIzaSyDd94wh97maAdXEdqxM2QPb8f7D0Uh0DkY";
-    //private static final String APIKEY = "AIzaSyDd94wh97maAdXEdqxM2QPb8f7D0Uh0DkY";
+    private static final String APIKEY =HERE IS YOUR KEY;
     private static final int SEARCH_RADIUS = 800;
     private static final GeoApiContext context = new GeoApiContext.Builder()
             .apiKey(APIKEY).build();
