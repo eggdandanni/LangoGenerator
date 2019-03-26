@@ -163,6 +163,5 @@ public class Restaurant {
     public String toString(){
         return this.name +" distance "+this.distance +" score:"+Math.round(this.rating)+" price:"+this.priceLevel +" tag:"+tags+" Reviews:"+reviewCount;
     }
-    //AIzaSyDBPaygtpQ3m-A-cXYIvqQ5Y6ob2P4gACU
 }
 
